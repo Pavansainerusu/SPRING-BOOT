@@ -23,8 +23,8 @@ Follow the steps below to get the Spring Boot application up and running:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/JAVA-PRACTICE.git
-cd JAVA-PRACTICE
+git clone https://github.com/Pavansainerusu/SPRING-BOOT.git
+cd SPRING-BOOT
 ```
 
 ### 2. Configure the Database (MySQL)
