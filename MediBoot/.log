@@ -1,0 +1,279 @@
+2025-05-12 00:48:40 - Starting MediBootApplication using Java 21.0.6 with PID 21660 (C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot\target\classes started by pavan in C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot)
+2025-05-12 00:48:40 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-12 00:48:40 - No active profile set, falling back to 1 default profile: "default"
+2025-05-12 00:48:40 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-12 00:48:40 - Finished Spring Data repository scanning in 3 ms. Found 1 JPA repository interface.
+2025-05-12 00:48:40 - Tomcat initialized with port 8080 (http)
+2025-05-12 00:48:40 - Starting service [Tomcat]
+2025-05-12 00:48:40 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-12 00:48:40 - Initializing Spring embedded WebApplicationContext
+2025-05-12 00:48:40 - Root WebApplicationContext: initialization completed in 154 ms
+2025-05-12 00:48:40 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-12 00:48:40 - HHH000026: Second-level cache disabled
+2025-05-12 00:48:40 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-12 00:48:40 - HikariPool-7 - Starting...
+2025-05-12 00:48:40 - HikariPool-7 - Added connection com.mysql.cj.jdbc.ConnectionImpl@631ef7d9
+2025-05-12 00:48:40 - HikariPool-7 - Start completed.
+2025-05-12 00:48:40 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-7)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-12 00:48:40 - addDescriptor(12, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@48200412) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@3c1bb8cd)
+2025-05-12 00:48:40 - addDescriptor(-9, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@78f8017b) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@73ad84b)
+2025-05-12 00:48:40 - addDescriptor(-3, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@4ff24c2a) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@2ece58c9)
+2025-05-12 00:48:40 - addDescriptor(4003, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@168577b2) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@47ac1da9)
+2025-05-12 00:48:40 - addDescriptor(4001, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@1a629a6a) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@463681ff)
+2025-05-12 00:48:40 - addDescriptor(4002, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@7bb3566c) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@5cd55de6)
+2025-05-12 00:48:40 - addDescriptor(2004, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@526a3ddc) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@20a16717)
+2025-05-12 00:48:40 - addDescriptor(2005, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@41c05559) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@378c0aea)
+2025-05-12 00:48:40 - addDescriptor(2011, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@348b551a) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@1f390543)
+2025-05-12 00:48:40 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-12 00:48:40 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:48:41 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-12 00:48:41 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-12 00:48:41 - LiveReload server is running on port 35729
+2025-05-12 00:48:41 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-12 00:48:41 - Started MediBootApplication in 0.344 seconds (process running for 1751.637)
+2025-05-12 00:48:41 - Condition evaluation unchanged
+2025-05-12 00:48:52 - Starting MediBootApplication using Java 21.0.6 with PID 24084 (C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot\target\classes started by pavan in C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot)
+2025-05-12 00:48:52 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-12 00:48:52 - No active profile set, falling back to 1 default profile: "default"
+2025-05-12 00:48:52 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-05-12 00:48:52 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-05-12 00:48:53 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-12 00:48:53 - Finished Spring Data repository scanning in 30 ms. Found 1 JPA repository interface.
+2025-05-12 00:48:53 - Tomcat initialized with port 8080 (http)
+2025-05-12 00:48:53 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:48:53 - Starting service [Tomcat]
+2025-05-12 00:48:53 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-12 00:48:53 - Initializing Spring embedded WebApplicationContext
+2025-05-12 00:48:53 - Root WebApplicationContext: initialization completed in 917 ms
+2025-05-12 00:48:53 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-12 00:48:53 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-12 00:48:53 - HHH000026: Second-level cache disabled
+2025-05-12 00:48:53 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-12 00:48:53 - HikariPool-1 - Starting...
+2025-05-12 00:48:54 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7a18ed5
+2025-05-12 00:48:54 - HikariPool-1 - Start completed.
+2025-05-12 00:48:54 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-12 00:48:54 - addDescriptor(12, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@28962953) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@4ef3e6f8)
+2025-05-12 00:48:54 - addDescriptor(-9, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@732dc0fc) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@45830cb5)
+2025-05-12 00:48:54 - addDescriptor(-3, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@5cc679e7) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@d5390a1)
+2025-05-12 00:48:54 - addDescriptor(4003, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@10649bd7) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@4d5fdbca)
+2025-05-12 00:48:54 - addDescriptor(4001, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@22398ac7) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@337ed0b9)
+2025-05-12 00:48:54 - addDescriptor(4002, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@7f04f22) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@3442459d)
+2025-05-12 00:48:54 - addDescriptor(2004, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@5a439e60) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@1f7d7689)
+2025-05-12 00:48:54 - addDescriptor(2005, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@1a71b31b) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@3c397365)
+2025-05-12 00:48:54 - addDescriptor(2011, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@7acf5a1c) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@e72a2f2)
+2025-05-12 00:48:54 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-12 00:48:54 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:48:55 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-12 00:48:55 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-12 00:48:55 - Unable to start LiveReload server
+2025-05-12 00:48:55 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:48:55 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-05-12 00:48:55 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:48:55 - HikariPool-1 - Shutdown initiated...
+2025-05-12 00:48:55 - HikariPool-1 - Shutdown completed.
+2025-05-12 00:48:55 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-05-12 00:48:55 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-05-12 00:49:28 - Application shutdown requested.
+2025-05-12 00:49:28 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-12 00:49:28 - Graceful shutdown complete
+2025-05-12 00:49:28 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:49:28 - HikariPool-7 - Shutdown initiated...
+2025-05-12 00:49:28 - HikariPool-7 - Shutdown completed.
+2025-05-12 00:50:02 - Starting MediBootApplication using Java 21.0.6 with PID 8128 (C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot\target\classes started by pavan in C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot)
+2025-05-12 00:50:02 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-12 00:50:02 - No active profile set, falling back to 1 default profile: "default"
+2025-05-12 00:50:02 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-05-12 00:50:02 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-05-12 00:50:03 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-12 00:50:03 - Finished Spring Data repository scanning in 32 ms. Found 1 JPA repository interface.
+2025-05-12 00:50:04 - Tomcat initialized with port 8080 (http)
+2025-05-12 00:50:04 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:50:04 - Starting service [Tomcat]
+2025-05-12 00:50:04 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-12 00:50:04 - Initializing Spring embedded WebApplicationContext
+2025-05-12 00:50:04 - Root WebApplicationContext: initialization completed in 1545 ms
+2025-05-12 00:50:04 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-12 00:50:04 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-12 00:50:04 - HHH000026: Second-level cache disabled
+2025-05-12 00:50:04 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-12 00:50:04 - HikariPool-1 - Starting...
+2025-05-12 00:50:05 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@967462f
+2025-05-12 00:50:05 - HikariPool-1 - Start completed.
+2025-05-12 00:50:05 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-12 00:50:05 - addDescriptor(12, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@13c983e4) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@54768ac9)
+2025-05-12 00:50:05 - addDescriptor(-9, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@5085e01e) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@67bc06ad)
+2025-05-12 00:50:05 - addDescriptor(-3, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@38b56f1d) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@58758a00)
+2025-05-12 00:50:05 - addDescriptor(4003, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@270f0400) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@2081e722)
+2025-05-12 00:50:05 - addDescriptor(4001, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@33dfa9a8) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@478e1059)
+2025-05-12 00:50:05 - addDescriptor(4002, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@18fe23ac) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@37697f66)
+2025-05-12 00:50:05 - addDescriptor(2004, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@79b512ca) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@4e0ed97d)
+2025-05-12 00:50:05 - addDescriptor(2005, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@27847053) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@5beaa98a)
+2025-05-12 00:50:05 - addDescriptor(2011, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@a98d37f) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@32653660)
+2025-05-12 00:50:05 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-12 00:50:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:50:06 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-12 00:50:06 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-12 00:50:06 - LiveReload server is running on port 35729
+2025-05-12 00:50:06 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:50:06 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-12 00:50:06 - Started MediBootApplication in 4.483 seconds (process running for 5.296)
+2025-05-12 00:52:12 - Restarting due to 4 class path changes (0 additions, 0 deletions, 4 modifications)
+2025-05-12 00:52:12 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-12 00:52:12 - Pausing ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:52:12 - Graceful shutdown complete
+2025-05-12 00:52:12 - Stopping ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:52:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:52:12 - HikariPool-1 - Shutdown initiated...
+2025-05-12 00:52:12 - HikariPool-1 - Shutdown completed.
+2025-05-12 00:52:12 - Starting MediBootApplication using Java 21.0.6 with PID 8128 (C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot\target\classes started by pavan in C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot)
+2025-05-12 00:52:12 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-12 00:52:12 - No active profile set, falling back to 1 default profile: "default"
+2025-05-12 00:52:12 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-12 00:52:12 - Finished Spring Data repository scanning in 7 ms. Found 1 JPA repository interface.
+2025-05-12 00:52:12 - Tomcat initialized with port 8080 (http)
+2025-05-12 00:52:12 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:52:12 - Starting service [Tomcat]
+2025-05-12 00:52:12 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-12 00:52:12 - Initializing Spring embedded WebApplicationContext
+2025-05-12 00:52:12 - Root WebApplicationContext: initialization completed in 280 ms
+2025-05-12 00:52:12 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-12 00:52:12 - HHH000026: Second-level cache disabled
+2025-05-12 00:52:12 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-12 00:52:12 - HikariPool-2 - Starting...
+2025-05-12 00:52:13 - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@399627e
+2025-05-12 00:52:13 - HikariPool-2 - Start completed.
+2025-05-12 00:52:13 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-2)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-12 00:52:13 - addDescriptor(12, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@37bb14d0) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@525dde98)
+2025-05-12 00:52:13 - addDescriptor(-9, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@6fc5aa7b) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@63baf62a)
+2025-05-12 00:52:13 - addDescriptor(-3, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@cc87319) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@30ddc506)
+2025-05-12 00:52:13 - addDescriptor(4003, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@72893714) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@463694c9)
+2025-05-12 00:52:13 - addDescriptor(4001, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@92967ad) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@5782767b)
+2025-05-12 00:52:13 - addDescriptor(4002, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@6c88ca08) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@1e6a9b8c)
+2025-05-12 00:52:13 - addDescriptor(2004, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@5cbc93e3) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@184907a1)
+2025-05-12 00:52:13 - addDescriptor(2005, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@323b462a) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@78470d1a)
+2025-05-12 00:52:13 - addDescriptor(2011, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@40dcba7a) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@1078c9cf)
+2025-05-12 00:52:13 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-12 00:52:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:52:13 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-12 00:52:13 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-12 00:52:13 - LiveReload server is running on port 35729
+2025-05-12 00:52:13 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:52:13 - Tomcat started on port 8080 (http) with context path '/'
+2025-05-12 00:52:13 - Started MediBootApplication in 0.625 seconds (process running for 131.721)
+2025-05-12 00:52:13 - Condition evaluation unchanged
+2025-05-12 00:53:01 - Starting MediBootApplication using Java 21.0.6 with PID 21884 (C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot\target\classes started by pavan in C:\Users\pavan\Documents\workspace-spring-tool-suite-4-4.29.1.RELEASE\MediBoot)
+2025-05-12 00:53:01 - Running with Spring Boot v3.4.5, Spring v6.2.6
+2025-05-12 00:53:01 - No active profile set, falling back to 1 default profile: "default"
+2025-05-12 00:53:01 - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-05-12 00:53:01 - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-05-12 00:53:02 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-05-12 00:53:02 - Finished Spring Data repository scanning in 55 ms. Found 1 JPA repository interface.
+2025-05-12 00:53:02 - Tomcat initialized with port 8080 (http)
+2025-05-12 00:53:02 - Initializing ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:53:02 - Starting service [Tomcat]
+2025-05-12 00:53:02 - Starting Servlet engine: [Apache Tomcat/10.1.40]
+2025-05-12 00:53:02 - Initializing Spring embedded WebApplicationContext
+2025-05-12 00:53:02 - Root WebApplicationContext: initialization completed in 1545 ms
+2025-05-12 00:53:02 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-05-12 00:53:02 - HHH000412: Hibernate ORM core version 6.6.13.Final
+2025-05-12 00:53:03 - HHH000026: Second-level cache disabled
+2025-05-12 00:53:03 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-05-12 00:53:03 - HikariPool-1 - Starting...
+2025-05-12 00:53:03 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@28ed0113
+2025-05-12 00:53:03 - HikariPool-1 - Start completed.
+2025-05-12 00:53:03 - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 8.0.41
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+2025-05-12 00:53:03 - addDescriptor(12, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@317271ea) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@43094da6)
+2025-05-12 00:53:03 - addDescriptor(-9, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@60036f4f) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@5ff098e9)
+2025-05-12 00:53:03 - addDescriptor(-3, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@7d2f4fdc) replaced previous registration(org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@744259a2)
+2025-05-12 00:53:03 - addDescriptor(4003, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@f403972) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@54acdfa3)
+2025-05-12 00:53:03 - addDescriptor(4001, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@53fa3b45) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@3513e7d1)
+2025-05-12 00:53:03 - addDescriptor(4002, org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@3b96d3a8) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@97552be)
+2025-05-12 00:53:03 - addDescriptor(2004, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@b5760c6) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@21502312)
+2025-05-12 00:53:03 - addDescriptor(2005, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@2c56bf03) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@f15f895)
+2025-05-12 00:53:03 - addDescriptor(2011, org.hibernate.type.descriptor.sql.internal.CapacityDependentDdlType@3ff4e8e1) replaced previous registration(org.hibernate.type.descriptor.sql.internal.DdlTypeImpl@1f1c14be)
+2025-05-12 00:53:04 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-05-12 00:53:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:53:04 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-05-12 00:53:04 - Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-05-12 00:53:05 - Unable to start LiveReload server
+2025-05-12 00:53:05 - Starting ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:53:05 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-05-12 00:53:05 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:53:05 - HikariPool-1 - Shutdown initiated...
+2025-05-12 00:53:05 - HikariPool-1 - Shutdown completed.
+2025-05-12 00:53:05 - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-05-12 00:53:05 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-05-12 00:56:12 - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2025-05-12 00:56:12 - Commencing graceful shutdown. Waiting for active requests to complete
+2025-05-12 00:56:12 - Pausing ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:56:12 - Graceful shutdown complete
+2025-05-12 00:56:12 - Stopping ProtocolHandler ["http-nio-8080"]
+2025-05-12 00:56:12 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-12 00:56:12 - HikariPool-2 - Shutdown initiated...
+2025-05-12 00:56:12 - HikariPool-2 - Shutdown completed.
